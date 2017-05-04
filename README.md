@@ -1,5 +1,7 @@
 # Typed Pathwatcher  [![Build Status](https://travis-ci.org/typed-typings/npm-pathwatcher.svg?branch=master)](https://travis-ci.org/typed-typings/npm-pathwatcher)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-pathwatcher.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`pathwatcher`](https://github.com/atom/node-pathwatcher.git)
 
